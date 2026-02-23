@@ -4,13 +4,8 @@
 
 - ✅ &nbsp; Desenvolvedor FullStack JavaScript.
 - 🎓 &nbsp; Formado em **Analise e desenvolvimento de sistemas** pela <a href="https://www.ulbra.br/torres">Ulbra Torres</a>.
-- 💼 &nbsp; Trabalhando como **Product Configurator Programmer/Analyst** na <a href="https://www.tkelevator.com/us-en/">UnaTi/TK Elevator</a>
-- 🌱 &nbsp; Aprendendo mais sobre Js e Ts com os cursos da **<a href="https://www.tkelevator.com/us-en/">RocketSeat</a>** :rocket:.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
-
-![matheusmartini](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartini&hide=html&layout=compact&theme=default)
-
 
 **Aplicações e Dados**
 
